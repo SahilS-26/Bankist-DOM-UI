@@ -1,3 +1,3 @@
 # Bankist DOM UI components
 
-Project link :- https://sahilsuthar0926.github.io/Bankist-DOM-UI/
+Project link :- https://sahils-26.github.io/Bankist-DOM-UI/
