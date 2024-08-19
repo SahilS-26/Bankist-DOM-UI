@@ -522,3 +522,7 @@ window.addEventListener('load', function (e) {
 //   console.log(e);
 //   e.returnValue = '';
 // });
+
+///////////
+const justifyText = document.querySelector('blockquote');
+justifyText.align = 'justify';
